@@ -14,3 +14,7 @@
 .mr-5:hover {
   background-color:#088 !important;
 } 
+.p-4 {
+  background-color: #fff;
+  font-size: 21px;
+}
