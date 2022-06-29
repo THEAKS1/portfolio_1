@@ -1,0 +1,24 @@
+.about-text {
+    font-family: 'Comfortaa', cursive;
+    font-size: 1.2rem;
+  }
+  .mr-5{
+    color: white;
+    width: 110px;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+    transition: 0.7s all;
+    font-size: 20px;
+  }
+  .mr-5:hover {
+    background-color:#088 !important;
+  } 
+.heading {
+    font-size: 50px;
+    color: #fff;
+}
+.p-4 {
+  background-color: #fff;
+  width: 475px !important;
+}
