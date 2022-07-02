@@ -1,0 +1,25 @@
+.mr-5{
+    color: white;
+    width: 110px;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+    transition: 0.7s all;
+    font-size: 20px;
+  }
+  .mr-5:hover {
+    background-color:#088 !important;
+  } 
+  .p-4 {
+    background-color: #fff;
+    font-size: 21px;
+  }
+  body {
+    background: rgb(15,70,106);
+  background: radial-gradient(circle, rgba(15,70,106,1) 19%, rgba(16,45,63,1) 57%);
+  }
+  section .container {
+    background-color: #fff;
+    margin-top: 8vh;
+    border-radius: 10px;
+  }

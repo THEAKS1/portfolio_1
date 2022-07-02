@@ -1,3 +1,8 @@
+body {
+  background: rgb(15,70,106);
+background: radial-gradient(circle, rgba(15,70,106,1) 19%, rgba(16,45,63,1) 57%);
+}
+
 .mr-5{
     color: white;
     width: 110px;
