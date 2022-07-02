@@ -296,10 +296,16 @@
         margin-left: 10vw;
         width: 40vw;
       }
+      .main-timeline .description {
+        font-size: 16px;
+        margin: 0;
+        width: 100%;
+        color: white;
+      }
       .main-timeline .timeline-icon{ font-size: 60px; }
       .main-timeline .timeline-year{ font-size: 40px; }
   }
-  @media screen and (max-width:479px){
+  /* @media screen and (max-width:479px){
       .main-timeline .timeline-icon{
           font-size: 50px;
           transform:translateY(0);
@@ -323,4 +329,4 @@
       .main-timeline .timeline:nth-child(even) .timeline-year{
           right: 9%;
       }
-  }
+  } */
